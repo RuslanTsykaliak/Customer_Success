@@ -1,0 +1,1 @@
+## How could we improve or alter this familiarization exercise?

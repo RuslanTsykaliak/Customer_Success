@@ -1,0 +1,2 @@
+## An Enterprise customer who has been sold Vercel through a reseller called Sitecore has reached out to the team to ask about the product. Can you give a brief 2-5 sentence introduction to Vercel to showcase what Vercel does?
+### Your new Enterprise customer is Acme University’s Marketing Department and their lead point person is called Clara (she/her). They have no web development or technical background and don’t know what Vercel is.

@@ -1,0 +1,2 @@
+## A customer has reached out asking, “When should I choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?” Please write a reply to the customer.
+### Your Enterprise customer is Trevor (they/them), a frontend developer at a winery using Next.js and Statsig and they are primarily interested in being able to use the Vercel platform with Next.js to do personalization when it comes to what they are able to offer in their online shop based on geolocation (some places don’t allow for shipping of alcohol via delivery).
